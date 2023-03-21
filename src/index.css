@@ -1,7 +1,7 @@
 body {
     margin: 0;
-    background-color: #a5a5a5;
-    min-height: 100vh;
+    background-color: #545454
+    
 
     display: grid;
 }
@@ -9,4 +9,5 @@ body {
 nav {
     display: block;
     color: white
+
   }
