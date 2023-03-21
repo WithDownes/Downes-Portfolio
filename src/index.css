@@ -5,3 +5,8 @@ body {
 
     display: grid;
 }
+
+nav {
+    display: block;
+    color: white
+  }
