@@ -11,7 +11,7 @@
 
 
 .nav {
-    display: inline-block;
+    display: grid-container;
     color: white
     margin: 100px;
     /* adapted from aycan.dev */
