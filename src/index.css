@@ -11,7 +11,7 @@ body {
 
 
 nav {
-    display: block;
+    display: grid;
     color: white
 
   }
