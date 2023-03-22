@@ -1,4 +1,4 @@
-.body {
+body {
     margin: 0;
     /* adapted from aycan.dev */
     font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
@@ -10,7 +10,7 @@
     }
 
 
-.nav {
+nav {
     display: grid-container;
     color: white
     margin: 100px;
