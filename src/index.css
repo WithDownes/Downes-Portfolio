@@ -37,3 +37,9 @@ body {
     color: white;
   }
 
+  footer {
+    text-align: center;
+    padding: 3px;
+    background-color: #545454;
+    color: white;
+  }
