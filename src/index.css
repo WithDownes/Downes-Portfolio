@@ -79,20 +79,20 @@ body {
     color: white;
   }
 
-  /* h1 { 
+   h1 { 
 
-      margin: 5%;
+      margin-left: 5%;
 
-  }*/
+  }
 
   h2 {
 
-    margin: 5%;
+    margin-left: 5%;
 
   }
 
   p {
 
-    margin: auto;
+    margin-left: 5%;
 
   }
