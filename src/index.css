@@ -72,6 +72,11 @@ body {
     color: white;
   }
 
+    .heading {
+
+      float:left;
+
+    }
   footer {
     /* adapted from https://www.w3schools.com/tags/tryit.asp?filename=tryhtml5_footer_css */
     
