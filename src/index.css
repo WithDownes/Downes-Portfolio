@@ -27,12 +27,12 @@ body {
   padding:1rem;
 }
 
-/* background colors */
+/* background colors 
 .holy-grail-flexbox > .header {background:#f97171}
 .holy-grail-flexbox > .main-content {background:#fff}
 .holy-grail-flexbox > .left-sidebar {background:#f5d55f}
 .holy-grail-flexbox > .right-sidebar {background:#c5ed77}
-.holy-grail-flexbox > .footer {background:#72c2f1}
+.holy-grail-flexbox > .footer {background:#72c2f1}*/
 
 /* tablet breakpoint */
 @media (min-width:768px) {
