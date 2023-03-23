@@ -10,6 +10,38 @@ body {
         
     }
 
+/* set correct box model */
+* {
+  box-sizing:border-box;
+}
+
+/* flexbox container */
+.holy-grail-flexbox {
+  display:flex;
+  flex-wrap:wrap;
+}
+
+/* columns (mobile) */
+.holy-grail-flexbox > * {
+  width:100%;
+  padding:1rem;
+}
+
+/* background colors */
+.holy-grail-flexbox > .header {background:#f97171}
+.holy-grail-flexbox > .main-content {background:#fff}
+.holy-grail-flexbox > .left-sidebar {background:#f5d55f}
+.holy-grail-flexbox > .right-sidebar {background:#c5ed77}
+.holy-grail-flexbox > .footer {background:#72c2f1}
+
+/* tablet breakpoint */
+@media (min-width:768px) {
+  .holy-grail-flexbox > .left-sidebar,
+  .holy-grail-flexbox > .right-sidebar {
+      width:50%;
+  }
+}
+
 /* Add a black background color to the top navigation */
 .topnav {
     margin: 0;
