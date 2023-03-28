@@ -10,6 +10,15 @@ body {
     font-size: 16px;
         
     }
+
+
+    /* https://stackoverflow.com/questions/55541850/how-to-make-footer-stay-at-bottom-of-the-page-with-flex-box */
+    .maincontents {
+      flex: 1;
+      display: flex; 
+    }
+
+
     /* Adapted from https://matthewjamestaylor.com/holy-grail-layout#flexbox */
 /* set correct box model */
 * {
@@ -78,15 +87,8 @@ body {
       inl
 
     }
-  footer {
-    /* adapted from https://www.w3schools.com/tags/tryit.asp?filename=tryhtml5_footer_css */
-    
-    text-align: center;
-    padding: 3px;
-    background-color: #333;
-    color: white;
-  }
 
+  
    h1 { 
 
     font-size: 2.5em; /* 40px/16=2.5em */
@@ -106,6 +108,18 @@ body {
     margin-left: 5%;
 
   }
+
+  footer {
+    /* adapted from https://www.w3schools.com/tags/tryit.asp?filename=tryhtml5_footer_css */
+    
+    text-align: center;
+    padding: 3px;
+    background-color: #333;
+    color: white;
+    /* https://stackoverflow.com/questions/55541850/how-to-make-footer-stay-at-bottom-of-the-page-with-flex-box */
+    flex: 0;
+  }
+
 
   /* https://icons8.com/icon/set/popular/retro */
   .icons8-facebook { 
