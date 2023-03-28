@@ -122,6 +122,13 @@ body {
 
     width: auto;
   }
+  /* https://stackoverflow.com/questions/4575826/how-to-push-a-footer-to-the-bottom-of-page-when-content-is-short-or-missing */
+  .flex-wrapper {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    justify-content: space-between;
+  }
 
 
   /* https://icons8.com/icon/set/popular/retro */
