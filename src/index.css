@@ -132,7 +132,7 @@ body {
 
   .flex-wrapper {
     display: flex;
-    min-width: 100vh;
+    min-width: 100%;
     flex-direction: row;
     justify-content: space-between;
   }
