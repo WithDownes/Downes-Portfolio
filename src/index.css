@@ -130,6 +130,13 @@ body {
     justify-content: space-between;
   }
 
+  .flex-wrapper {
+    display: flex;
+    min-width: 100vh;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+
 
   /* https://icons8.com/icon/set/popular/retro */
   .icons8-facebook { 
