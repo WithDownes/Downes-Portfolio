@@ -119,6 +119,8 @@ body {
     color: white;
     /* https://stackoverflow.com/questions/55541850/how-to-make-footer-stay-at-bottom-of-the-page-with-flex-box */
     flex: 0;
+
+    width: auto;
   }
 
 
