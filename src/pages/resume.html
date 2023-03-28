@@ -1,33 +1,65 @@
 <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="/src/index.css" />
+    <title>Bel Downes</title>
 
-<html>
-    <head>
-        <meta charset="UTF-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link rel="stylesheet" type="text/css" href="/src/index.css" />
-        <title>Document</title>
-    </head>
+</head>
 
-    <body>
-        <header>
-            <h1>Bel Downes' Portfolio Under Construction</h1>
-    
-            <nav>
-                <a href="/src/index.html">Home</a>
-                <a href="about_me.html">About Me</a> |
-                <a href="resume.html">Resume</a> |
-                <a href="blog.html">Blog</a> |
-                <a href="twitter.html">Fake Twitter Testimonials</a> |
-            </nav>
+<body>
+    <!-- adapted from https://matthewjamestaylor.com/holy-grail-layout#flexbox -->
+    <div class="holy-grail-grid">
+        <header class="header">
+            
+            <div class="topnav">
 
+                <!--<div> <img src="./src/images/build_bel_banner.jpg" alt="Banner"> </div>-->
+                <div class="heading"><h1>Belinda Downes</h1></div>
+                <a href="./src/pages/twitter.html">Fake Twitter Testimonials</a>
+                <a href="./src/pages/blog.html">Blog</a> 
+                <a href="./src/pages/resume.html">Resume</a>
+                <a href="./src/pages/about_me.html">About Me</a>
+                <a class="active" href="#home">Home</a>
+            </div>
         </header>
 
-        <h1> Bel Downes' Portfolio</h1>
-        <h2> resume </h2>
+        <main class="main-content">
+            
+            <article>
+                
+                <h2>Fake Testimonials</h2>
+                <p>Lots of glorious text here</p>
 
-        <div>
-            <img src="../src/images/Construction_Zone.jpg" alt="Construction Zone" width="500" height="600">
-        </div>
+                <img src="./src/images/Construction_Zone.jpg" alt="Construction Zone">
+            </article>
+
+        <section>
+            
+        </section>
+
+
+        </main>
+        <!--<section class="left-sidebar">Left sidebar</section>-->
+        <!--<aside class="right-sidebar">Right sidebar</aside>-->
+
+        <footer class="footer">
+            <p>Bel Downes<br>
+                <a href="mailto:belinda@coffeewithbelindadownes.com">belinda@coffeewithbelindadownes.com</a></p>
+            <div class="icons8-facebook"></div>
+            <div class="icons8-instagram"></div>
+            <div class="icons8-linkedin"></div>
+            <div class="icons8-twitter"></div>
+        </footer>
+    </div>
+
+        
+
+        
+
+        
+
 </body>
 </html>
