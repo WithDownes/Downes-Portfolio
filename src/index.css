@@ -16,8 +16,7 @@ body {
     .maincontents {
       flex: 1;
       display: flex; 
-      width: 100%;
-      flex-grow: 1;
+      /* width: 100%; */
     }
 
 
@@ -35,7 +34,7 @@ body {
 
 /* columns (mobile) */
 .holy-grail-flexbox > * {
-  width:100%;
+  /* width:100%; */
   padding:1rem;
 }
 
@@ -50,7 +49,7 @@ body {
 @media (min-width:768px) {
   .holy-grail-flexbox > .left-sidebar,
   .holy-grail-flexbox > .right-sidebar {
-      width:50%;
+      /* width:50%; */
   }
 }
 
@@ -86,7 +85,7 @@ body {
     .topnav .heading {
 
       float:left;
-      inl
+      /* inl */
 
     }
 
@@ -129,12 +128,12 @@ body {
     min-height: 100vh;
     flex-direction: column;
     justify-content: space-between;
-    flex-grow: 1;
+    
   }
 
   .flex-wrapper {
     display: flex;
-    min-width: 100%;
+    /* min-width: 100%; */
     flex-direction: row;
     justify-content: space-between;
     flex-grow: 1;
