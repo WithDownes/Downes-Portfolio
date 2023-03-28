@@ -10,8 +10,14 @@ body {
     font-size: 16px;
         
     }
-
-
+ /* Chat GPT  */
+  header  {
+    
+    width: 100%;
+    position: fixed;
+    top: 0;
+  }
+  
     /* https://stackoverflow.com/questions/55541850/how-to-make-footer-stay-at-bottom-of-the-page-with-flex-box */
     .maincontents {
       flex: 1;
@@ -115,7 +121,10 @@ body {
     /* https://stackoverflow.com/questions/55541850/how-to-make-footer-stay-at-bottom-of-the-page-with-flex-box */
     flex: 0;
 
-    
+
+    width: 100%;
+    position: fixed;
+    bottom: 0;
   }
   /* https://stackoverflow.com/questions/4575826/how-to-push-a-footer-to-the-bottom-of-page-when-content-is-short-or-missing */
   .flex-wrapper {
