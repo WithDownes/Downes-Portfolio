@@ -46,14 +46,6 @@ body {
 
 
 
-/* tablet breakpoint */
-@media (min-width:768px) {
-  .holy-grail-flexbox > .left-sidebar,
-  .holy-grail-flexbox > .right-sidebar {
-      /* width:50%; */
-  }
-}
-
 /* Add a black background color to the top navigation */
 .topnav {
     margin: 0;
@@ -86,8 +78,7 @@ body {
     .topnav .heading {
 
       float:left;
-      /* inl */
-
+      
     }
 
   
