@@ -135,7 +135,7 @@ body {
   }
 
 
-  /* https://icons8.com/icon/set/popular/retro */
+  /* https://icons8.com/icon/set/popular/retro 
   .icons8-facebook { 
     display: inline-block;
     width: 64px;
@@ -170,4 +170,123 @@ body {
     background: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHg9IjBweCIgeT0iMHB4Igp3aWR0aD0iNjQiIGhlaWdodD0iNjQiCnZpZXdCb3g9IjAgMCAzMiAzMiI+CjxwYXRoIGZpbGw9IiM0NDliYjMiIGQ9Ik0yLjg1MywyNS4yMzdDNS40MDMsMjcuNDMxLDguMDk4LDI4LDEwLjQ3NCwyOGMxMS4yNDIsMCwxNy4zOTMtOC43MzIsMTcuMzkzLTE2Ljc0MgljMC0wLjI2My0wLjAwOC0wLjUyNC0wLjAyMS0wLjc4MmMxLjA0MS0wLjc2OSwxLjcwOS0xLjUyNiwyLjI0OC0yLjUyOWMtMC4zNy0wLjA4NC0wLjY2LTAuMjc3LTAuOTgzLTAuNTcyCWMwLjQzMy0wLjcxOCwwLjg0Ny0yLjI2NywwLjk2Mi0yLjkzNGMtMS4xODIsMC42OTMtMi40OTEsMS4yMDEtMy44ODQsMS40N0MyNS4wNzcsNC43MzIsMjMuNDksNCwyMS43MzMsNAljLTMuMzc3LDAtNi4xMTMsMi43MTMtNi4xMTMsNi4wNThjMCwwLjQ3NCwwLjA1NiwwLjkzNSwwLjE2LDEuMzgyQzEwLjcsMTEuMTg1LDYuMTk1LDguNzcsMy4xODEsNS4xMDUJYy0wLjc2MywxLjI2Ny0xLjczNSwzLjc5My0wLjMwNyw2LjUwNGwwLjAwMSwwYy0xLjAwNywyLjUzNS0wLjEzMyw0Ljg5OSwxLjY3OSw1LjkxMWMwLjQ1NywzLjAxMSwyLjkyNSw1LjIwMSw1LjU5OSw1LjI1NAlDOC4yMTIsMjQuMjc4LDUuNDc4LDI1LjEwOCwyLjg1MywyNS4yMzd6Ij48L3BhdGg+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTcuNzc0LDE0Ljc0Yy0xLjM5MS0wLjI5OC0zLjUwNC0xLjMzMi00LjY4LTIuNjYybDAuNzQ5LTAuNjYyYzAuOTk3LDEuMTI3LDIuODg4LDIuMDc4LDQuMTQsMi4zNDYJTDcuNzc0LDE0Ljc0eiI+PC9wYXRoPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik05LjQwMSwxOC42NjVjLTEuNDE4LDAtMy40MTctMC40MjYtNC42NDktMC45OWwwLjQxNi0wLjkwOGMxLjEwMSwwLjUwNCwyLjk2LDAuODk4LDQuMjMzLDAuODk4CVYxOC42NjV6Ij48L3BhdGg+PHBhdGggZmlsbD0iIzMwMjUyOSIgZD0iTTEwLjQ3NCwyOWMtMy4yMTcsMC01LjkyMy0wLjk4Mi04LjI3Mi0zLjAwNWwtMS44OTgtMS42MzRsMi41MDItMC4xMjMJYzEuNzAxLTAuMDgzLDMuMzQyLTAuNDY1LDQuNzQ1LTEuMDg2Yy0xLjkxOC0wLjkxNy0zLjQxMS0yLjc3LTMuODk5LTUuMDE4Yy0xLjk2NC0xLjM1Ni0yLjctMy45MDUtMS44NjEtNi40NjgJQzAuMzQ1LDguNDk0LDEuNjY2LDUuNjgxLDIuMzI0LDQuNTg5bDAuNzMtMS4yMTFsMC44OTgsMS4wOTNjMi42NzQsMy4yNTEsNi41MTMsNS4zNDgsMTAuNjczLDUuODY1CWMtMC4wMDQtMC4wOTMtMC4wMDYtMC4xODYtMC4wMDYtMC4yNzhDMTQuNjIsNi4xNjYsMTcuODEyLDMsMjEuNzMzLDNjMS43NjYsMCwzLjQ3MywwLjY1Nyw0Ljc2OSwxLjgyCWMxLjA2OS0wLjI1OCwyLjA5OC0wLjY3NSwzLjA2NS0xLjI0MmwxLjg1Ny0xLjA4OGwtMC4zNjYsMi4xMjFjLTAuMDgxLDAuNDY4LTAuMzI4LDEuNDk4LTAuNjY3LDIuMzc4bDEuMjA2LDAuMjczbC0wLjYyMiwxLjE1OAljLTAuNTM4LDEuMDAxLTEuMTg0LDEuNzc5LTIuMTExLDIuNTMyYzAuMDAyLDAuMTAyLDAuMDAzLDAuMjAzLDAuMDAzLDAuMzA1QzI4Ljg2NywxOS45NzksMjEuOTg3LDI5LDEwLjQ3NCwyOXogTTUuNTczLDI1Ljg4MQlDNy4wMzYsMjYuNjMyLDguNjU3LDI3LDEwLjQ3NCwyN2MxMC42NDgsMCwxNi4zOTQtOC4xMSwxNi4zOTQtMTUuNzQyYzAtMC4yNDYtMC4wMDktMC40OTMtMC4wMi0wLjczNmwtMC4wMjQtMC41MzJsMC40MjktMC4zMTYJYzAuNi0wLjQ0MywxLjA1LTAuODY5LDEuNDIyLTEuMzU0Yy0wLjA4NC0wLjA2OC0wLjE2Mi0wLjEzNy0wLjIzNi0wLjIwNWwtMC42MDUtMC41NTJsMC40MjMtMC43MDMJYzAuMDg1LTAuMTQyLDAuMTc2LTAuMzQxLDAuMjY0LTAuNTdjLTAuNjk1LDAuMjYyLTEuNDEsMC40NjQtMi4xNCwwLjYwNGwtMC41NCwwLjEwNGwtMC4zNzctMC40QzI0LjUwNSw1LjU4MiwyMy4xNDYsNSwyMS43MzMsNQljLTIuODE5LDAtNS4xMTMsMi4yNjktNS4xMTMsNS4wNThjMCwwLjM4NSwwLjA0NSwwLjc3MywwLjEzNCwxLjE1NmwwLjI5OSwxLjI5MWwtMS4zMjMtMC4wNjZDMTEuMDcyLDEyLjIwNCw2LjY3NywxMC4yMDcsMy40NDgsNi45CWMtMC4zNjUsMS4wOTQtMC41NDIsMi42MjQsMC4zMTEsNC4yNDNsMC4yMTUsMC40MDdsLTAuMTcsMC40MjhjLTAuNzYyLDEuOTE2LTAuMjUyLDMuODM2LDEuMjM4LDQuNjY5bDAuNDI3LDAuMjM5bDAuMDczLDAuNDgzCWMwLjM3NSwyLjQ2NywyLjM2NSw0LjM1OSw0LjYzLDQuNDAzbDIuMzQ4LDAuMDQ1YzAsMC0wLjg0NCwxLjAzMS0xLjc1NCwxLjc0NUM5LjM3OCwyNC42NTIsNy41NTksMjUuNDQ1LDUuNTczLDI1Ljg4MXoiPjwvcGF0aD4KPC9zdmc+') 50% 50% no-repeat;
     background-size: 100%; 
   
+  } */
+
+  .fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+  }
+  
+  .fa:hover {
+      opacity: 0.7;
+  }
+  
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  
+  .fa-google {
+    background: #dd4b39;
+    color: white;
+  }
+  
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+  
+  .fa-youtube {
+    background: #bb0000;
+    color: white;
+  }
+  
+  .fa-instagram {
+    background: #125688;
+    color: white;
+  }
+  
+  .fa-pinterest {
+    background: #cb2027;
+    color: white;
+  }
+  
+  .fa-snapchat-ghost {
+    background: #fffc00;
+    color: white;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  }
+  
+  .fa-skype {
+    background: #00aff0;
+    color: white;
+  }
+  
+  .fa-android {
+    background: #a4c639;
+    color: white;
+  }
+  
+  .fa-dribbble {
+    background: #ea4c89;
+    color: white;
+  }
+  
+  .fa-vimeo {
+    background: #45bbff;
+    color: white;
+  }
+  
+  .fa-tumblr {
+    background: #2c4762;
+    color: white;
+  }
+  
+  .fa-vine {
+    background: #00b489;
+    color: white;
+  }
+  
+  .fa-foursquare {
+    background: #45bbff;
+    color: white;
+  }
+  
+  .fa-stumbleupon {
+    background: #eb4924;
+    color: white;
+  }
+  
+  .fa-flickr {
+    background: #f40083;
+    color: white;
+  }
+  
+  .fa-yahoo {
+    background: #430297;
+    color: white;
+  }
+  
+  .fa-soundcloud {
+    background: #ff5500;
+    color: white;
+  }
+  
+  .fa-reddit {
+    background: #ff5700;
+    color: white;
+  }
+  
+  .fa-rss {
+    background: #ff6600;
+    color: white;
   }
