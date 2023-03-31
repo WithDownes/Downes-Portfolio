@@ -18,12 +18,12 @@ body {
     top: 0;
   }
 
-    /* https://stackoverflow.com/questions/55541850/how-to-make-footer-stay-at-bottom-of-the-page-with-flex-box */
+    /* https://stackoverflow.com/questions/55541850/how-to-make-footer-stay-at-bottom-of-the-page-with-flex-box 
     .maincontents {
       flex: 1;
       display: flex; 
       width: 100%;
-    }
+    }*/
 
 
     /* Adapted from https://matthewjamestaylor.com/holy-grail-layout#flexbox */
