@@ -94,6 +94,13 @@ body {
 
   }
 
+ img {
+
+    margin-left: 5%;
+
+  }
+
+  
   footer {
     /* adapted from https://www.w3schools.com/tags/tryit.asp?filename=tryhtml5_footer_css */
     
@@ -126,6 +133,7 @@ body {
     flex-grow: 1;
   }
 
+ 
 
    .fa {
     padding: 20px;
