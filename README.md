@@ -4,7 +4,7 @@ Portfolio website: https://belindadownes.net/
 
 GitHub Repo: https://github.com/WithDownes/Downes-Portfolio
 
-Presentation video:https://www.youtube.com/watch?v=mANkDhFQDrw
+Presentation video: https://www.youtube.com/watch?v=mANkDhFQDrw
 
 Purpose: For Portfolio
 
