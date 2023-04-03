@@ -1,4 +1,4 @@
-Downes-Portfolio
+##Downes-Portfolio##
 
 Portfolio website: https://belindadownes.net/
 
@@ -13,6 +13,3 @@ Functionality / features: See "BelindaDownes_T1A2.zip\BelindaDownes_T1A2\docs\Be
 Tech stack: html, css, vscode, git, github
 
 Slide deck: BelindaDownes_T1A2.zip\BelindaDownes_T1A2\ppt\BelDownesSlidedeck
-
-
-
