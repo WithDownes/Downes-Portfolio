@@ -63,5 +63,5 @@ and a 27 inch computer monitor 2560x1440px
 
 ![27inch PC mockup](/src/images/27pc_mockup.png)
 
-![iPad real screenshot](/src/images/ipad_real.PNG)
+![27inch PC real screenshot](/src/images/ipad_real.PNG)
 
