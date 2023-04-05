@@ -57,5 +57,5 @@ I resized for iPad Pro 12.9 2048x2732px - this is the other orientation but it h
 ![iPad mockup](/src/images/ipad_mockup.png)
 
 
-![iPhone real screenshot](/src/images/Screenshot_iphone_real.PNG)
+![iPad real screenshot](/src/images/ipad_real.PNG)
 
