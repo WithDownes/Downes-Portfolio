@@ -61,5 +61,7 @@ I resized for iPad Pro 12.9 2048x2732px - this is the other orientation but it h
 
 and a 27 inch computer monitor 2560x1440px
 
+![iPad mockup](/src/images/ipad_mockup.png)
 
+![iPad real screenshot](/src/images/ipad_real.PNG)
 
