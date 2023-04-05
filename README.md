@@ -1,6 +1,6 @@
 # README.md
 
-##Downes-Portfolio
+## Downes-Portfolio
 
 Portfolio website: https://belindadownes.net/
 
