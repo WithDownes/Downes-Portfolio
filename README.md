@@ -45,4 +45,5 @@ Mockups plus real blank different sizes
 iPhone - the blue and white circles are placed there on my phone by Speechify which reads just the body
 of the page
 
-
+![iPhone mockup screenshot](/src/images/pic1.png)
+![iPhone real screenshot](/src/images/pic1.png)
