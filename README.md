@@ -33,5 +33,12 @@ This glossary was also a helpful guide to UX: https://www.appmysite.com/blog/ux-
 
 ![First mockup screenshot](/src/images/pic1.png)
 
+I wanted to find a way to bring header and footer bars into the design, and this seemed to have the
+proportions I wanted
 
-
+Colours: #737373 - Gray and #545454 - Dark Gray 2532x1170 px
+Font from Canva for mockup
+https://htmlcolorcodes.com/
+Mockups plus real blank different sizes
+iPhone - the blue and white circles are placed there on my phone by Speechify which reads just the body
+of the page
