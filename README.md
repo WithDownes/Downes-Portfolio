@@ -31,4 +31,6 @@ I used Canva https://www.canva.com/ for this and all my graphics, because I'm us
 a resize feature with breakpoints showing.
 This glossary was also a helpful guide to UX: https://www.appmysite.com/blog/ux-terms-glossary/
 
+![Tux, the Linux mascot](/assets/images/tux.png)
+
 
