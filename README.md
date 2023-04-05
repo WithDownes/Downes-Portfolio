@@ -46,4 +46,4 @@ iPhone - the blue and white circles are placed there on my phone by Speechify wh
 of the page
 
 ![iPhone mockup screenshot](/src/images/iphone_mockup.png)
-![iPhone real screenshot](/src/images/pic1.png)
+![iPhone real screenshot](/src/images/Screenshot_ iphone_real.PNG)
