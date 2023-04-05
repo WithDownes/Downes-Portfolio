@@ -77,14 +77,26 @@ and a 27 inch computer monitor 2560x1440px
 ## Resources
 
 https://css-tricks.com/wp-content/uploads/2022/02/css-grid-poster.png
+
 https://css-tricks.com/almanac/properties/g/grid/
+
 https://css-tricks.com/almanac/properties/f/flex/
+
 https://www.w3schools.com/html/html5_semantic_elements.asp#:~:text=What%20are%20Semantic%20Elements%3F,%3E%20%2D%20Clearly%20defines%20its%20content
+
 https://www.w3schools.com/tags/default.asp
+
 https://www.w3schools.com/css/css_rwd_templates.asp
+
 https://matthewjamestaylor.com/holy-grail-layout
+
 https://stackoverflow.com/questions/55541850/how-to-make-footer-stay-at-bottom-of-the-page-with-flex-box
+
 https://pixabay.com/photos/workspace-coffee-laptop-macbook-1280538/
+
 https://kb.blackbaud.com/knowledgebase/Article/103613
+
 https://developer.mozilla.org/en-US/docs/Web/CSS/font-size
+
 https://www.markdownguide.org/cheat-sheet/
+
