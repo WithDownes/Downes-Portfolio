@@ -48,10 +48,10 @@ of the page
 ![iPhone mockup screenshot](/src/images/iphone_mockup.png)
 
 
-![iPhone real screenshot](/src/images/Screenshot_iphone_real.PNG)
+<!--![iPhone real screenshot](/src/images/Screenshot_iphone_real.PNG)-->
 
 
-<img src="/src/images/Screenshot_iphone_real.PNG" width="1000" height="5000">
+<img src="/src/images/Screenshot_iphone_real.PNG" width="500" height="2500">
 
 
 I resized for iPad Pro 12.9 2048x2732px - this is the other orientation but it has resized okay
