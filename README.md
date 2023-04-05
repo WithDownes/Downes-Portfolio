@@ -71,4 +71,4 @@ and a 27 inch computer monitor 2560x1440px
 
 ## Wireframe
 
-![Wireframe](/src/images/ipad_real.PNG)
+![Wireframe](/src/images/wireframe.jpg)
