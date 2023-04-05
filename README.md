@@ -116,6 +116,6 @@ Then heading and navbar on the same line: https://stackoverflow.com/questions/42
 Then sticking the footer to the bottom of the page: https://stackoverflow.com/questions/55541850/how-to-make-footer-stay-at-bottom-of-the-page-with-flex-box /
 https://stackoverflow.com/questions/4575826/how-to-push-a-footer-to-the-bottom-of-page-when-content-is-short-or-missing
 
-Website logos in footer: https://icons8.com/icon/set/popular/retro This ended up not working at all.
+Icons in footer: https://icons8.com/icon/set/popular/retro This ended up not working at all.
 This worked better, and included responsive hovers over the icons
 https://www.w3schools.com/howto/howto_css_social_media_buttons.asp
