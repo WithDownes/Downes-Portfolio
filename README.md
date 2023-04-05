@@ -30,3 +30,5 @@ Just to start somewhere I used the breakpoints for the iPhone mini (2340 x 1080 
 I used Canva https://www.canva.com/ for this and all my graphics, because I'm used to using it and it has
 a resize feature with breakpoints showing.
 This glossary was also a helpful guide to UX: https://www.appmysite.com/blog/ux-terms-glossary/
+
+
