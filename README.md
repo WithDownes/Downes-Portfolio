@@ -49,3 +49,7 @@ of the page
 
 
 ![iPhone real screenshot](/src/images/Screenshot_iphone_real.PNG)
+
+I resized for iPad Pro 12.9 2048x2732px - this is the other orientation but it has resized okay
+
+
