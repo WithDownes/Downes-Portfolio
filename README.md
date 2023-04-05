@@ -47,4 +47,4 @@ of the page
 
 ![iPhone mockup screenshot](/src/images/iphone_mockup.png)
 
-![iPhone real screenshot](/src/images/Screenshot_ iphone_real.PNG)
+![iPhone real screenshot](/src/images/Screenshot_iphone_real.PNG)
