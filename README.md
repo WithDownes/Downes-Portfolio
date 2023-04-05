@@ -34,3 +34,4 @@ This glossary was also a helpful guide to UX: https://www.appmysite.com/blog/ux-
 ![First mockup screenshot](/src/images/pic1.png)
 
 
+
