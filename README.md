@@ -100,3 +100,21 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/font-size
 
 https://www.markdownguide.org/cheat-sheet/
 
+
+## Challenges and Solutions
+
+To help with the typing and reading: https://www.w3schools.com/howto/default.asp This helped no end
+I only used and adapted what I understood
+
+The biggest challenge at first was how to do the nav bar at the top of the page. I adapted this:
+https://www.w3schools.com/howto/howto_js_topnav.asp
+
+Then I found this: https://matthewjamestaylor.com/holy-grail-layout
+
+Then heading and navbar on the same line: https://stackoverflow.com/questions/42397706/h1-and-nav-on-the-same-line
+
+Then sticking the footer to the bottom of the page: https://stackoverflow.com/questions/55541850/how-to-make-footer-stay-at-bottom-of-the-page-with-flex-box /
+https://stackoverflow.com/questions/4575826/how-to-push-a-footer-to-the-bottom-of-page-when-content-is-short-or-missing
+Website logos in footer: https://icons8.com/icon/set/popular/retro This ended up not working at all.
+This worked better, and included responsive hovers over the icons
+https://www.w3schools.com/howto/howto_css_social_media_buttons.asp
