@@ -68,3 +68,5 @@ and a 27 inch computer monitor 2560x1440px
 
 ![27inch PC real screenshot](/src/images/27pc_real.png)
 
+
+# Wireframe
