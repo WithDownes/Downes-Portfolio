@@ -48,4 +48,4 @@ of the page
 ![iPhone mockup screenshot](/src/images/iphone_mockup.png)
 
 
-![iPhone real screenshot](/src/images/Screenshot_iphone_real.PNG <img src="image.png" width="200" height="100">)
+![iPhone real screenshot](/src/images/Screenshot_iphone_real.PNG)
