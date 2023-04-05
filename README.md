@@ -39,6 +39,10 @@ proportions I wanted
 Colours: #737373 - Gray and #545454 - Dark Gray 2532x1170 px
 Font from Canva for mockup
 https://htmlcolorcodes.com/
+
 Mockups plus real blank different sizes
+
 iPhone - the blue and white circles are placed there on my phone by Speechify which reads just the body
 of the page
+
+
