@@ -13,6 +13,7 @@ Purpose: For Portfolio
 Functionality / features: 
  - Good contast
  - Low glare
+ - Uncluttered layout
  - Responsive navigation
 
 Tech stack: html, css, vscode, git, github
