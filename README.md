@@ -11,6 +11,9 @@ Presentation video: https://www.youtube.com/watch?v=mANkDhFQDrw
 Purpose: For Portfolio
 
 Functionality / features: 
+ - Good contast
+ - Low glare
+ - Responsive navigation
 
 Tech stack: html, css, vscode, git, github
 
@@ -40,7 +43,7 @@ Colours: #737373 - Gray and #545454 - Dark Gray 2532x1170 px
 Font from Canva for mockup
 https://htmlcolorcodes.com/
 
-Mockups plus real blank different sizes
+## Mockups plus real blank different sizes
 
 iPhone - the blue and white circles are placed there on my phone by Speechify which reads just the body
 of the page
